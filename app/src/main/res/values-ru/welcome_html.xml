@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcomehtml">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">
+    				<center><h3><font color="#FF6633">Добро пожаловать!</font></h3></center>
+	    			<font color="#00CC00"><b>Monyrama</b></font> - на мобильном устройстве это помощник настольной <font color="#0099FF"><b>Monyrama</b></font>.<br/><br/>
+	    			<font color="#00CC00"><b>Monyrama</b></font> позволяет Вам иметь Ваши планы расходов и источники доходов под рукой на Вашем мобильном устройстве и регистрировать расходы и доходы, где бы Вы ни были.<br/><br/>
+	    			Для обмена данными с десктопной <font color="#0099FF"><b>Monyrama</b></font> Вам понадобится только Ваша домашняя WiFi сеть.<br/><br/>
+	    			Если Вы не являетесь пользователем десктопного приложения <font color="#0099FF"><b>Monyrama</b></font>, пожалуйста, посетите сначала наш сайт<br/><br/><center><b><a href="http://www.monyrama.com/ru/">http://www.monyrama.com</a></b></center>
+	    			<br/>   			
+	    			Итак, нажмите кнопку <font color="green"><b>Пуск</b></font> и сделайте Вашу жизнь легче с <font color="#00CC00"><b>Monyrama</b></font>.
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+</resources>

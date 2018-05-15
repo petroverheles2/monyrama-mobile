@@ -1,0 +1,83 @@
+    {
+       "currencies":
+       [
+           {
+               "id": 1389793492615,
+               "exchangeRate": 8.33,
+               "name": "United States Dollar",
+               "code": "USD",
+               "main": false
+           },
+           {
+               "id": 1389825735540,
+               "exchangeRate": 1,
+               "name": "Ukraine Hryvna",
+               "code": "UAH",
+               "main": true
+           }
+       ],
+       "expensePlans":
+       [
+           {
+               "id": 1393427249667,
+               "remainder": 100,
+               "sum": 200,
+               "items":
+               [
+                   {
+                       "id": 1393427249668,
+                       "remainder": 10,
+                       "sum": 50.5,
+                       "category": "General",
+                       "comment": "com",
+                       "name": "test"
+                   }
+               ],
+               "currencyId": 1389825735540,
+               "name": "Test"
+           }
+       ],
+       "accounts":
+       [
+           {
+               "id": 1391707664116,
+               "currencyId": 1389793492615,
+               "name": "dollars",
+               "sum": 4
+           },
+           {
+               "id": 1391707664117,
+               "currencyId": 1389793492615,
+               "name": "one more dollars",
+               "sum": 5
+           },
+           {
+               "id": 1389825735541,
+               "currencyId": 1389825735540,
+               "name": "test",
+               "sum": 26
+           },
+           {
+               "id": 1391707639321,
+               "currencyId": 1389825735540,
+               "name": "test1",
+               "sum": 3
+           },
+           {
+               "id": 1391708119308,
+               "currencyId": 1389825735540,
+               "name": "test2",
+               "sum": 2
+           }
+       ],
+       "incomeSources":
+       [
+           {
+               "id": 1408093772423,
+               "currencyId": 1389825735540,
+               "name": "Work",
+               "sum": 25
+           }
+       ]
+    }
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcomehtml">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">
+    				<center><h3><font color="#FF6633">Добро пожаловать!</font></h3></center>
+	    			<font color="#00CC00"><b>Мобильный бюджет VP</b></font> - это вспомогательное приложение для настольного приложения <font color="#0099FF"><b>Персональный бюджет VP</b></font>.<br/><br/>
+	    			<font color="#00CC00"><b>Мобильный бюджет VP</b></font> позволяет Вам иметь Ваши планы расходов под рукой на Вашем мобильном устройстве и регистрировать Ваши расходы где бы Вы ни были.<br/><br/>
+	    			Для обмена данными с Вашим <font color="#0099FF"><b>Персональный бюджет VP</b></font> Вам понадобится только Ваша домашняя WiFi сеть.<br/><br/>
+	    			Если Вы не являетесь пользователем приложения <font color="#0099FF"><b>Персональный бюджет VP</b></font>, пожалуйста, посетите сначала наш сайт<br/><br/><center><b><a href="http://www.pbudgetvp.com/ru/">http://www.pbudgetvp.com</a></b></center>
+	    			<br/>   			
+	    			Итак, нажмите кнопку <font color="green"><b>Пуск</b></font> и сделайте Вашу жизнь легче с <font color="#00CC00"><b>Мобильный бюджет VP</b></font>.
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+</resources>

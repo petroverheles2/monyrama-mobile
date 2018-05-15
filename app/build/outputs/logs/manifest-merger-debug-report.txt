@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:5:5-28
+	android:versionCode
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:7:5-72
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:7:41-70
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:7:15-40
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:12:5-38:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:13:9-38
+activity#com.monyrama.activity.StartActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:15:9-20:20
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:15:103-139
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:15:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:15:140-178
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:15:52-102
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.monyrama.activity.WelcomeActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:21:9-183
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:21:105-141
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:21:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:21:142-180
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:21:52-104
+activity#com.monyrama.activity.ExpensesPlansActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:22:9-189
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:22:111-147
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:22:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:22:148-186
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:22:52-110
+activity#com.monyrama.activity.AddEditServerActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:23:9-188
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:23:111-147
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:23:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:23:148-186
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:23:52-110
+activity#com.monyrama.activity.AddEditExpenseActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:24:9-189
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:24:112-148
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:24:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:24:149-187
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:24:52-111
+activity#com.monyrama.activity.ViewEnvelopeActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:25:9-187
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:25:110-146
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:25:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:25:147-185
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:25:52-109
+activity#com.monyrama.activity.ViewExpensePlanActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:26:9-190
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:26:113-149
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:26:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:26:150-188
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:26:52-112
+activity#com.monyrama.activity.ServersActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:27:9-182
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:27:105-141
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:27:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:27:142-180
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:27:52-104
+activity#com.monyrama.activity.AccountsActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:28:9-183
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:28:106-142
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:28:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:28:143-181
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:28:52-105
+activity#com.monyrama.activity.CurrenciesActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:29:9-185
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:29:108-144
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:29:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:29:145-183
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:29:52-107
+activity#com.monyrama.activity.ViewAccountActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:30:9-186
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:30:109-145
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:30:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:30:146-184
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:30:52-108
+activity#com.monyrama.activity.IncomesActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:31:9-182
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:31:105-141
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:31:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:31:142-180
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:31:52-104
+activity#com.monyrama.activity.AddEditIncomeActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:32:9-188
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:32:111-147
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:32:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:32:148-186
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:32:52-110
+activity#com.monyrama.activity.ViewIncomeSourceActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:33:9-191
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:33:114-150
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:33:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:33:151-189
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:33:52-113
+activity#com.monyrama.activity.AddTransferActivity
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:34:9-186
+	android:screenOrientation
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:34:109-145
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:34:19-51
+	android:theme
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:34:146-184
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:34:52-108
+uses-library#android.test.runner
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:36:23-57
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:40:13-42:33
+	android:label
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:42:5-30
+	android:targetPackage
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:41:5-41
+	android:name
+		ADDED from /Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/AndroidManifest.xml:40:30-83

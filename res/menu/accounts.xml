@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/menu_accounts_accounts"
+        android:menuCategory="container"
+        android:orderInCategory="1"
+        android:title="@string/expenses_plans"
+        android:titleCondensed="@string/expenses_plans">
+    </item>
+    <item
+        android:id="@+id/menu_accounts_incomes"
+        android:menuCategory="container"
+        android:orderInCategory="2"
+        android:title="@string/incomes"
+        android:titleCondensed="@string/incomes">
+    </item>    
+    <item
+        android:id="@+id/menu_accounts_servers"
+        android:menuCategory="container"
+        android:orderInCategory="3"
+        android:title="@string/servers"
+        android:titleCondensed="@string/servers">
+    </item>
+    <item
+        android:id="@+id/menu_accounts_currencies"
+        android:menuCategory="container"
+        android:orderInCategory="4"
+        android:title="@string/currencies"
+        android:titleCondensed="@string/currencies">
+    </item>    
+    <item
+        android:id="@+id/menu_accounts_tips"
+        android:menuCategory="container"
+        android:orderInCategory="5"
+        android:title="@string/tips"
+        android:titleCondensed="@string/tips">
+    </item>
+
+</menu>

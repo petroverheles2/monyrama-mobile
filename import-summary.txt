@@ -1,0 +1,249 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* app/
+* app/build.gradle
+* app/libs/
+* app/libs/commons-io-2.2.jar
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/com/
+* app/src/main/java/com/pbudgetvp/
+* app/src/main/java/com/pbudgetvp/activity/
+* app/src/main/java/com/pbudgetvp/activity/AccountsActivity.java
+* app/src/main/java/com/pbudgetvp/activity/AddEditExpenseActivity.java
+* app/src/main/java/com/pbudgetvp/activity/AddEditServerActivity.java
+* app/src/main/java/com/pbudgetvp/activity/CurrenciesActivity.java
+* app/src/main/java/com/pbudgetvp/activity/CurrenciesListAdapter.java
+* app/src/main/java/com/pbudgetvp/activity/ExpenseCommentAdapter.java
+* app/src/main/java/com/pbudgetvp/activity/ExpensesListAdapter.java
+* app/src/main/java/com/pbudgetvp/activity/ExpensesPlansActivity.java
+* app/src/main/java/com/pbudgetvp/activity/ExtraNames.java
+* app/src/main/java/com/pbudgetvp/activity/ItemsListAdapter.java
+* app/src/main/java/com/pbudgetvp/activity/ServersActivity.java
+* app/src/main/java/com/pbudgetvp/activity/ServersListAdapter.java
+* app/src/main/java/com/pbudgetvp/activity/StartActivity.java
+* app/src/main/java/com/pbudgetvp/activity/TipsDialogUtility.java
+* app/src/main/java/com/pbudgetvp/activity/ViewEnvelopeActivity.java
+* app/src/main/java/com/pbudgetvp/activity/ViewExpensePlanActivity.java
+* app/src/main/java/com/pbudgetvp/activity/WelcomeActivity.java
+* app/src/main/java/com/pbudgetvp/activity/sumkeyboard/
+* app/src/main/java/com/pbudgetvp/activity/sumkeyboard/NextKeyListener.java
+* app/src/main/java/com/pbudgetvp/activity/sumkeyboard/SumKeyboardView.java
+* app/src/main/java/com/pbudgetvp/dataexchange/
+* app/src/main/java/com/pbudgetvp/dataexchange/DataExchanger.java
+* app/src/main/java/com/pbudgetvp/db/
+* app/src/main/java/com/pbudgetvp/db/AccountDAO.java
+* app/src/main/java/com/pbudgetvp/db/AccountDAOImpl.java
+* app/src/main/java/com/pbudgetvp/db/CurrencyDAO.java
+* app/src/main/java/com/pbudgetvp/db/CurrencyDAOImpl.java
+* app/src/main/java/com/pbudgetvp/db/DAOFactory.java
+* app/src/main/java/com/pbudgetvp/db/ExpenseDAO.java
+* app/src/main/java/com/pbudgetvp/db/ExpenseDAOImpl.java
+* app/src/main/java/com/pbudgetvp/db/ExpensePlanDAO.java
+* app/src/main/java/com/pbudgetvp/db/ExpensePlanDAOImpl.java
+* app/src/main/java/com/pbudgetvp/db/GenericDao.java
+* app/src/main/java/com/pbudgetvp/db/GenericDaoImpl.java
+* app/src/main/java/com/pbudgetvp/db/PBVPDatabaseOpenHelper.java
+* app/src/main/java/com/pbudgetvp/db/SavedCommentDAO.java
+* app/src/main/java/com/pbudgetvp/db/SavedCommentDAOImpl.java
+* app/src/main/java/com/pbudgetvp/db/ServerDAO.java
+* app/src/main/java/com/pbudgetvp/db/ServerDAOImpl.java
+* app/src/main/java/com/pbudgetvp/json/
+* app/src/main/java/com/pbudgetvp/json/ServerData.java
+* app/src/main/java/com/pbudgetvp/json/ServerDataParser.java
+* app/src/main/java/com/pbudgetvp/log/
+* app/src/main/java/com/pbudgetvp/log/MyLog.java
+* app/src/main/java/com/pbudgetvp/model/
+* app/src/main/java/com/pbudgetvp/model/Account.java
+* app/src/main/java/com/pbudgetvp/model/BaseFinancialEntity.java
+* app/src/main/java/com/pbudgetvp/model/Currency.java
+* app/src/main/java/com/pbudgetvp/model/Envelope.java
+* app/src/main/java/com/pbudgetvp/model/Expense.java
+* app/src/main/java/com/pbudgetvp/model/ExpensePlan.java
+* app/src/main/java/com/pbudgetvp/model/Income.java
+* app/src/main/java/com/pbudgetvp/model/IncomeSource.java
+* app/src/main/java/com/pbudgetvp/model/Server.java
+* app/src/main/java/com/pbudgetvp/model/Transfer.java
+* app/src/main/java/com/pbudgetvp/net/
+* app/src/main/java/com/pbudgetvp/net/PBVPGateway.java
+* app/src/main/java/com/pbudgetvp/net/PBVPGatewayResponse.java
+* app/src/main/java/com/pbudgetvp/prefs/
+* app/src/main/java/com/pbudgetvp/prefs/PrefKeys.java
+* app/src/main/java/com/pbudgetvp/prefs/PrefsManager.java
+* app/src/main/java/com/pbudgetvp/util/
+* app/src/main/java/com/pbudgetvp/util/DateUtil.java
+* app/src/main/java/com/pbudgetvp/util/StringUtil.java
+* app/src/main/java/com/pbudgetvp/util/SumLocalizer.java
+* app/src/main/java/com/pbudgetvp/validator/
+* app/src/main/java/com/pbudgetvp/validator/AbstractValidator.java
+* app/src/main/java/com/pbudgetvp/validator/ExpenseValidator.java
+* app/src/main/java/com/pbudgetvp/validator/ServerValidator.java
+* app/src/main/java/com/pbudgetvp/validator/Validator.java
+* app/src/main/java/com/pbudgetvp/validator/ValidatorFactory.java
+* app/src/main/res/
+* app/src/main/res/anim/
+* app/src/main/res/anim/hide_to_bottom.xml
+* app/src/main/res/anim/show_from_bottom.xml
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/arrow_down.png
+* app/src/main/res/drawable-hdpi/arrow_up.png
+* app/src/main/res/drawable-hdpi/back.png
+* app/src/main/res/drawable-hdpi/empty.png
+* app/src/main/res/drawable-hdpi/exchange_data.png
+* app/src/main/res/drawable-hdpi/eye.png
+* app/src/main/res/drawable-hdpi/plus.png
+* app/src/main/res/drawable-hdpi/remove.png
+* app/src/main/res/drawable-hdpi/save.png
+* app/src/main/res/drawable-hdpi/tick.png
+* app/src/main/res/drawable-ldpi/
+* app/src/main/res/drawable-ldpi/arrow_down.png
+* app/src/main/res/drawable-ldpi/arrow_up.png
+* app/src/main/res/drawable-ldpi/back.png
+* app/src/main/res/drawable-ldpi/empty.png
+* app/src/main/res/drawable-ldpi/exchange_data.png
+* app/src/main/res/drawable-ldpi/eye.png
+* app/src/main/res/drawable-ldpi/plus.png
+* app/src/main/res/drawable-ldpi/remove.png
+* app/src/main/res/drawable-ldpi/save.png
+* app/src/main/res/drawable-ldpi/tick.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/arrow_down.png
+* app/src/main/res/drawable-mdpi/arrow_up.png
+* app/src/main/res/drawable-mdpi/back.png
+* app/src/main/res/drawable-mdpi/empty.png
+* app/src/main/res/drawable-mdpi/exchange_data.png
+* app/src/main/res/drawable-mdpi/eye.png
+* app/src/main/res/drawable-mdpi/plus.png
+* app/src/main/res/drawable-mdpi/remove.png
+* app/src/main/res/drawable-mdpi/save.png
+* app/src/main/res/drawable-mdpi/tick.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/ic_cross.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/gradient_spinner.xml
+* app/src/main/res/drawable/hide_top_panel_button_enabled.xml
+* app/src/main/res/drawable/hide_top_panel_button_pressed.xml
+* app/src/main/res/drawable/hide_top_panel_button_selector.xml
+* app/src/main/res/drawable/key_background.png
+* app/src/main/res/drawable/key_selector.xml
+* app/src/main/res/drawable/main.png
+* app/src/main/res/drawable/spinner_triangle.png
+* app/src/main/res/drawable/sym_keyboard_delete.png
+* app/src/main/res/drawable/sym_keyboard_feedback_return.png
+* app/src/main/res/drawable/tab_active.xml
+* app/src/main/res/drawable/tab_passive.xml
+* app/src/main/res/drawable/transparent_pressed.xml
+* app/src/main/res/drawable/transparent_selector.xml
+* app/src/main/res/layout/
+* app/src/main/res/layout/accounts.xml
+* app/src/main/res/layout/add_edit_expense.xml
+* app/src/main/res/layout/add_edit_server.xml
+* app/src/main/res/layout/comment_autocomplete_item.xml
+* app/src/main/res/layout/currencies.xml
+* app/src/main/res/layout/currency_item.xml
+* app/src/main/res/layout/expense_item.xml
+* app/src/main/res/layout/expenses_plans.xml
+* app/src/main/res/layout/item_item.xml
+* app/src/main/res/layout/server_item.xml
+* app/src/main/res/layout/servers.xml
+* app/src/main/res/layout/spinner_item.xml
+* app/src/main/res/layout/tip_dialog.xml
+* app/src/main/res/layout/view_envelope.xml
+* app/src/main/res/layout/view_expense_plan.xml
+* app/src/main/res/layout/welcome.xml
+* app/src/main/res/menu/
+* app/src/main/res/menu/accounts.xml
+* app/src/main/res/menu/expenses_plans.xml
+* app/src/main/res/menu/new_server_menu.xml
+* app/src/main/res/menu/servers_menu.xml
+* app/src/main/res/values-ru/
+* app/src/main/res/values-ru/strings.xml
+* app/src/main/res/values-ru/tips_html.xml
+* app/src/main/res/values-ru/welcome_html.xml
+* app/src/main/res/values-uk/
+* app/src/main/res/values-uk/strings.xml
+* app/src/main/res/values-uk/tips_html.xml
+* app/src/main/res/values-uk/welcome_html.xml
+* app/src/main/res/values/
+* app/src/main/res/values/colors.xml
+* app/src/main/res/values/strings.xml
+* app/src/main/res/values/style.xml
+* app/src/main/res/values/tips_html.xml
+* app/src/main/res/values/welcome_html.xml
+* app/src/main/res/xml/
+* app/src/main/res/xml/keyboard.xml
+* build.gradle
+* docs/
+* docs/db.uxf
+* docs/pbvp.db
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* proguard.cfg
+* settings.gradle
+* test/
+* test/com/
+* test/com/pbudgetvp/
+* test/com/pbudgetvp/json/
+* test/com/pbudgetvp/json/ServerDataParserTest.java
+* test/com/pbudgetvp/json/payload_from_server.json
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:21.0.3]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* libs/commons-io-2.2.jar => app/libs/commons-io-2.2.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

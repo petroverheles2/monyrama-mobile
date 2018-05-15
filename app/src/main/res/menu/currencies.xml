@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mbvp="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_currencies_accounts"
+        android:menuCategory="container"
+        android:orderInCategory="1"
+        android:title="@string/accounts"
+        android:titleCondensed="@string/accounts">
+    </item>
+    <item
+        android:id="@+id/menu_currencies_expenses"
+        android:menuCategory="container"
+        android:orderInCategory="1"
+        android:title="@string/expenses_plans"
+        android:titleCondensed="@string/expenses_plans">
+    </item>
+    <item
+        android:id="@+id/menu_currencies_incomes"
+        android:menuCategory="container"
+        android:orderInCategory="2"
+        android:title="@string/incomes"
+        android:titleCondensed="@string/incomes">
+    </item>    
+    <item
+        android:id="@+id/menu_currencies_servers"
+        android:menuCategory="container"
+        android:orderInCategory="3"
+        android:title="@string/servers"
+        android:titleCondensed="@string/servers">
+    </item>
+    <item
+        android:id="@+id/menu_currencies_tips"
+        android:menuCategory="container"
+        android:orderInCategory="5"
+        android:title="@string/tips"
+        android:titleCondensed="@string/tips">
+    </item>
+    <item
+        android:id="@+id/menu_currencies_data_exchange"
+        android:menuCategory="container"
+        android:orderInCategory="6"
+        android:title="@string/data_exchange"
+        android:titleCondensed="@string/data_exchange"
+        android:icon="@drawable/exchange_data"
+        mbvp:showAsAction="always">
+    </item>
+
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcomehtml">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">
+    				<center><h3><font color="#FF6633">Welcome!</font></h3></center>
+	    			<font color="#00CC00"><b>Mobile Budget VP</b></font> is a helper application for <font color="#0099FF"><b>Personal Budget VP</b></font> desktop application.<br/><br/>
+	    			<font color="#00CC00"><b>Mobile Budget VP</b></font> lets you have your expenses plans on your mobile device and register your expenses anywhere you are.<br/><br/>
+	    			For exchanging data with your <font color="#0099FF"><b>Personal Budget VP</b></font> you will need only your home WiFi network.<br/><br/>
+	    			If you\'re not a user of <font color="#0099FF"><b>Personal Budget VP</b></font> application, please, visit our site first<br/><br/><center><b><a href="http://www.pbudgetvp.com/en/">http://www.pbudgetvp.com</a></b></center>
+	    			<br/>   			
+	    			So, tap the <font color="green"><b>Start</b></font> button and make your life easier with <font color="#00CC00"><b>Mobile Budget VP</b></font>.
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Мобільний бюджет VP</string>
+
+    <!-- New / Edit server hints -->
+    <string name="alias">Назва</string>
+    <string name="nameOrIP">IP адреса</string>
+    <string name="comment">Коментар</string>
+    <string name="port">Порт</string>
+
+    <!-- New / Edit server screen headers -->
+    <string name="newServer">Новий сервер</string>
+    <string name="editServer">Редагування сервера</string>
+    
+    <!-- New / Edit server validator messages -->
+    <string name="alias_empty">Назва не може бути порожньою</string>
+    <string name="servername_or_ip_empty">IP адреса не може бути порожньою</string>
+    <string name="invalid_ip">Неправильна IP адреса</string>
+    <string name="port_empty">Порт не може бути порожнім</string>
+    <string name="port_number">Порт має бути числом від 1024 до 99999</string>    
+    
+    <!-- Button labels -->
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="back">Назад</string>
+	<string name="add_server">Додати сервер</string>
+
+    <!-- Dialog labels and messages -->
+    <string name="servers">Сервери</string>
+    <string name="think_please">Подумайте, будь-ласка</string>
+    <string name="question_remove_server">Ви дійсно хочете видалити сервер</string>
+    <string name="question_remove_expense">Ви дійсно хочете видалити витрату на суму</string>    
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="ok">OK</string>
+    <string name="fetching_data"><![CDATA[Обмінююсь даними. Будь-ласка, зачекайте...]]></string>
+    <string name="failed_to_connect_to_server">Не вдалося з\'єднатися з сервером \"%1$s\", використовуючи IP %2$s та порт %3$s</string>
+    <string name="unexpected_error">Несподівана помилка</string>
+    <string name="unexpected_response_from_server">Несподівана відповідь від сервера</string>    
+    <string name="data_exchange_success">Обміна даними завершився вдало</string>    
+    
+    <!-- Labels -->
+    <string name="server">Сервер</string>
+    <string name="expense_plan">План витрат</string>
+      
+    <!-- New / Edit expense screen headers -->
+    <string name="newExpense">Нова витрата</string>
+    <string name="editExpense">Редагування витрати</string>
+    
+    <!-- New / Edit expense hints -->
+    <string name="sum">Сума</string>    
+    <string name="envelope">Стаття</string>    
+    <string name="category">Категорія</string>
+    <string name="date">Дата</string>
+    
+    <string name="empty_sum">Сума не може бути порожньою</string>
+    <string name="invalid_sum">Неправильна сума</string>
+    
+    <!-- Tab labels -->
+    <string name="envelopes">Статті</string> 
+    <string name="expenses">Витрати</string>
+    
+    <!-- date labels -->
+    <string name="today">сьогодні</string>
+    <string name="yesterday">вчора</string>
+    
+    <!-- Static Expenses Plan and Item info screen labels -->
+    <string name="envelope_info">Деталі статті</string>
+    <string name="envelope_name">Ім\'я статті</string>
+    <string name="spent">Витрачено</string>
+    <string name="remainder">Залишок</string>
+    <string name="currency">Валюта</string>
+    <string name="expense_plan_info">Деталі плану витрат</string>
+    
+    <!-- Menu item Show / Hide Expense IDS -->
+    <string name="show_expense_ids">Показувати ID витрат</string>
+    <string name="hide_expense_ids">Ховати ID витрат</string>
+    
+    <!--  -->
+    <string name="expense_saved">Витрата вдало збережена</string>
+    <string name="server_saved">Сервер вдало збережений</string>
+	<string name="expense_removed">Витрата вдало видалена</string>
+    <string name="server_removed">Сервер вдало видалений</string>
+    
+    <string name="dont_show_welcome">Не показувати цей екран при запуску</string>    
+    <string name="start">Почати >></string>    
+    <string name="please_press">Будь-ласка, натисніть</string>    
+    <string name="to_get_updated_info">щоб отримати відкриті плані витрат з сервера</string>    
+    <string name="no_expenses">З моменту останнього обміну даними з сервером не було додано жодних витрат. Щоб додати нову витрату перейдіть на вкладинку Статті та натисніть статтю, до якої Ви хочете додати витрату.</string>
+        
+    <string name="number_separator">,</string>
+    <string name="number_separator_key_code">55</string>
+    <string name="next_key_label">Далі</string>
+    
+    <!-- Tip dialog -->
+    <string name="tips">Підказки</string>
+    <string name="got_it_dont_show">Зрозуміло. Більше не показувати</string>
+    <string name="close">Закрити</string>      
+</resources>

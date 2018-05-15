@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcomehtml">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">
+    				<center><h3><font color="#FF6633">Welcome!</font></h3></center>
+	    			<font color="#00CC00"><b>Monyrama</b></font> on your mobile device is the helper for desktop <font color="#0099FF"><b>Monyrama</b></font>.<br/><br/>
+	    			<font color="#00CC00"><b>Monyrama</b></font> lets you have your expenses plans and income sources on your mobile device and register your expenses and incomes anywhere you are.<br/><br/>
+	    			For exchanging data with the desktop <font color="#0099FF"><b>Monyrama</b></font> you will need only your home WiFi network.<br/><br/>
+	    			If you\'re not a user of desktop <font color="#0099FF"><b>Monyrama</b></font>, please, visit our site first<br/><br/><center><b><a href="http://www.monyrama.com/en/">http://www.monyrama.com</a></b></center>
+	    			<br/>   			
+	    			So, tap the <font color="green"><b>Start</b></font> button and make your life easier with <font color="#00CC00"><b>Monyrama</b></font>.
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+</resources>

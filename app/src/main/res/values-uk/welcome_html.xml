@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcomehtml">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">
+    				<center><h3><font color="#FF6633">Ласкаво просимо!</font></h3></center>
+	    			<font color="#00CC00"><b>Monyrama</b></font> на мобільному пристрої - помічник для настільної <font color="#0099FF"><b>Monyrama</b></font>.<br/><br/>
+	    			<font color="#00CC00"><b>Monyrama</b></font> дозволяє Вам мати Ваші плани витрат і джерела доходів під рукою на мобільному пристрої та реєструвати витрати і доходи, де б Ви не були.<br/><br/>
+	    			Для обміну даними з настільною <font color="#0099FF"><b>Monyrama</b></font> Вам знадобиться лише Ваша домашня WiFi мережа.<br/><br/>
+	    			Якщо Ви не є користувачем настільної <font color="#0099FF"><b>Monyrama</b></font>, будь-ласка, спочатку завітайте на наш сайт<br/><br/><center><b><a href="http://www.monyrama.com/uk/">http://www.monyrama.com</a></b></center>
+	    			<br/>   			
+	    			Отже, натисніть кнопку <font color="green"><b>Почати</b></font> і полегшіть Ваше життя разом з <font color="#00CC00"><b>Monyrama</b></font>.
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+</resources>

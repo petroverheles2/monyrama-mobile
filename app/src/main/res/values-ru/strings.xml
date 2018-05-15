@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Monyrama</string>
+
+    <!-- New / Edit server hints -->
+    <string name="alias">Название</string>
+    <string name="nameOrIP">IP адрес</string>
+    <string name="comment">Комментарий</string>
+    <string name="port">Порт</string>
+
+    <!-- New / Edit server screen headers -->
+    <string name="newServer">Новый сервер</string>
+    <string name="editServer">Редактировать сервер</string>
+    
+    <!-- New / Edit server validator messages -->
+    <string name="alias_empty">Название не может быть пустым</string>
+    <string name="servername_or_ip_empty">IP адрес не может быть пустым</string>
+    <string name="invalid_ip">Неправильный IP адрес</string>
+    <string name="port_empty">Порт не может быть пустым</string>
+    <string name="port_number">Порт должен быть числом от 1024 до 99999</string>    
+    
+    <!-- Button labels -->
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="back">Назад</string>
+	<string name="add_server">Добавить сервер</string>
+
+    <!-- Dialog labels and messages -->
+    <string name="servers">Сервера</string>
+    <string name="think_please">Подумайте</string>
+    <string name="question_remove_server">Вы действительно хотите удалить сервер</string>
+    <string name="question_remove_expense">Вы действительно хотите удалить расход на сумму</string>    
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="ok">OK</string>
+    <string name="fetching_data"><![CDATA[Обмениваюсь данными. Пожалуйста, ждите...]]></string>
+    <string name="failed_to_connect_to_server">Не удалось подсоединиться к серверу \"%1$s\" используя IP %2$s и порт %3$s</string>
+    <string name="unexpected_error">Неожиданная ошибка</string>
+    <string name="unexpected_response_from_server">Неожиданный ответ от сервера</string>    
+    <string name="data_exchange_success">Обмен данными успешен</string>    
+    
+    <!-- Labels -->
+    <string name="server">Сервер</string>
+    <string name="expense_plan">План расходов</string>
+      
+    <!-- New / Edit expense screen headers -->
+    <string name="newExpense">Новый расход</string>
+    <string name="editExpense">Редактировать расход</string>
+    
+    <!-- New / Edit expense hints -->
+    <string name="sum">Сумма</string>    
+    <string name="envelope">Конверт</string>
+    <string name="category">Категория</string>
+    <string name="date">Дата</string>
+    
+    <string name="empty_sum">Сумма не может быть пустой</string>
+    <string name="invalid_sum">Некорректная сумма</string>
+    
+    <!-- Tab labels -->
+    <string name="envelopes">Конверты</string>
+    <string name="expenses">Расходы</string>
+    
+    <!-- date labels -->
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
+    
+    <!-- Static Expenses Plan and Item info screen labels -->
+    <string name="envelope_info">Детали конверта</string>
+    <string name="envelope_name">Имя конверта</string>
+    <string name="spent">Потрачено</string>
+    <string name="remainder">Остаток</string>
+    <string name="currency">Валюта</string>
+    <string name="expense_plan_info">Детали плана расходов</string>
+    
+    <!-- Menu item Show / Hide Expense IDS -->
+    <string name="show_expense_ids">Показывать ID расходов</string>
+    <string name="hide_expense_ids">Прятать ID расходов</string>
+    
+    <!--  -->
+    <string name="expense_saved">Расход удачно сохранен</string>
+    <string name="server_saved">Сервер удачно сохранен</string>
+	<string name="expense_removed">Расход удачно удален</string>
+    <string name="server_removed">Сервер удачно удален</string>
+    
+    <string name="dont_show_welcome">Не показывать этот экран при запуске</string>    
+    <string name="start">Пуск >></string>    
+    <string name="please_press">Пожалуйста, нажмите</string>    
+    <string name="to_get_updated_info">чтобы получить данные от настольной Monyrama</string>
+    <string name="no_expenses">С момента последнего обмена с настольной Monyrama не было добавлено новых расходов. Чтобы добавить расход, перейдите на вкладку Конверты и нажмите на конверт, в который Вы хотите добавить расход.</string>
+    <string name="no_transfers">С момента последнего обмена с настольной Monyrama не было добавлено новых переводов.</string>
+    <string name="no_incomes">С момента последнего обмена с настольной Monyrama не было добавлено новых доходов.</string>
+
+    <string name="number_separator">,</string>
+    <string name="number_separator_key_code">55</string>
+    <string name="next_key_label">Далее</string>
+    
+    <!-- Tip dialog -->
+    <string name="tips">Подсказки</string>
+    <string name="got_it_dont_show">Понятно. Больше не показывать</string>
+    <string name="close">Закрыть</string>
+    <string name="add">Добавить</string>
+
+    <!-- accounts -->
+    <string name="accounts">Счета</string>
+    <string name="transfers">Переводы</string>
+    <string name="account">Счет</string>
+    <string name="account_details">Детали счета</string>
+    <string name="expenses_plans">Планы расходов</string>
+    <string name="incomes">Доходы</string>
+    <string name="data_exchange">Обмен данными</string>
+    <string name="currencies">Валюты</string>
+    <string name="fromAccount">Со счета</string>
+    <string name="income_add">Добавить</string>
+    <string name="income_source">Источник доходов</string>
+    <string name="to_account">На счет</string>
+    <string name="new_income">Новый доход</string>
+    <string name="income_saved">Доход удачно сохранен</string>
+    <string name="income_removed">Доход удачно удален</string>
+    <string name="question_remove_income">Вы действительно хотите удалить доход на сумму</string>
+    <string name="editIncome">Редактировать доход</string>
+    <string name="income_source_info">Детали источника доходов</string>
+    <string name="new_transfer">Новый перевод</string>
+    <string name="transfer_saved">Перевод удачно сохранен</string>
+    <string name="cant_transfer_to_same_account">Нельзя сделать перевод на тот же счет</string>
+    <string name="question_remove_transfer">Вы действительно хотите удалить перевод</string>
+    <string name="transfer_removed">Перевод удачно удален</string>
+    <string name="cant_connect_ip_port">Не могу подключиться к текущему серверу. Проверьте и исправте IP адрес и/или порт и нажмите OK</string>
+
+</resources>

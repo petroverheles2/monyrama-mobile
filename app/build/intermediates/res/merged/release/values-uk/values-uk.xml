@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на головний"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Інші опції"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Переглянути всі"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Надіслати запит"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="account">Рахунок</string>
+    <string name="account_details">Деталі рахунку</string>
+    <string name="accounts">Рахунки</string>
+    <string name="add">Додати</string>
+    <string name="add_server">Додати сервер</string>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/res/values-uk/tips_html.xml -->
+    <eat-comment/>
+    <string name="add_server_tip">
+    <![CDATA[
+    	 <html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">    			
+	    			<ul>
+	    			<li>Введіть назву сервера від настільної <font color="#0099FF"><b>Monyrama</b></font>. Наприклад, <b>Мій сервер</b>.</li>
+	    			<li>Введіть IP адресу та порт Вашого сервера. Ви можете подивитися ці параметри після запуску сервера в настільній <font color="#0099FF"><b>Monyrama</b></font> в меню <b><i>Сервер->Запустити</i></b>, і потім глянувши в лівий нижній кут вікна додатку.</li>
+	    			<li>Натисніть кнопку <img alt="" border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB90BBhcRKXJ93bQAAAObSURBVEjHrZTLa11lFMV/e5/vPvNoi0YtVQp2UCzWiUg66cCJxIHQiTgRx50HB6KoYyFTB6JQfPwTTqQzAyIUBF+0WlFiqdo0SW/uOefbezv4bmKiNzE+NpzR4Vt7r7X22vLi6ogPF4fwyvc8/+x9Q/WGCGE2CcuP9TneEQmmVyVCpxIAzIPrG5l3bhJXPvllxKunuXxtjAA8d3VjbmG2szxILG7e2VAHZjrKa08ckxM9lWngAXRU2G4dEIYd4cs7NR/c0rxlslo3vnLlqcFmOvPebU4e6y7P9Ko3kjjb6gRCJY6IoKJMY9CrhLc+/YmrN9dpHU7NdXj94mkGPUVclgZd4fI38WZ6+sm5Yb+ri6qBR+BRpvOA1oPa/ACBlJ/vNazXmcYCAWoHjyAEVFns5WaYVMEIJQSsAIeURnUO6mo6fBBE7OfWWtC60ALmaM5BaiLAwQHxCQsEi6C2YJxjqkRWnu3zpLGgdadFMQ+aCFJr5XkVgbhjBOZgIjR2sESBspdARGnQGDQ45oVRat0JlCoKA4uiYw4KA5uM9xcGRUbZI1njkyZFIrI7qTGntFDUA/PAELIHrQetTZcoJjkYZ6c253g/kT1oPKhR3J1sQWosMEDDqHY8iCCjrDdlx3cR/9TghXMPcensA4DQT8KNjYaxCTWBO5gFqfYgCchEGu0OiHDGwEdrNbOp5GA6j70Swd02GFWJSosn2YNUZycH9FQ5O6vEoPfHq4l5R625PqgEX285tTtmFA9GGVYeH/DMg33+j/r41pjlL+4xFEi1O3WUST2KEIrsY3HUMg9UClbtTiUTBrUXvSzg9iizttXgexqWLMahciWF8wszdKuygXV2klJMrg0aD7KVwfuphKiAx25iD2ugUoZUpKyqBQnKmtYWtF6O20y3Yr6XOEglOSAT7J6KglWb00FIrTmNQ578/HGz4cb6GI+S1vCSk5gk96DqVMLFh+fpJyVbCVxLkFov96ONEvXj/cT5hZlyLffM+3frKhIgQuMTLAvaHYmyl6+1QEQYdHS/JEfZqCg+Kjt4ToOQLBwC3/Hgh7s1X/02Ik/Ohjm7BzAO2aRupSw9eoJ+UloDsnsmSE23N+LuaNU8llqHk3M9Ts33duf/Jwxad1oHM4ftvNqubY+SXToJL3+2Mn/hfh1nX/QI/S8pVhGfV1nl819X7O0LSPX+deylM6x/d5tr1XD47zK8j0ick9Fo4ZEF9N1v+R1+WJCX0nkCVAAAAABJRU5ErkJggg==" />, щоб зберегти параметри сервера.</li>
+	    			</ul>	    			
+	    		</font>	    			    			
+    		</body>
+    	</html>    		
+    ]]>
+</string>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="alias">Назва</string>
+    <string name="alias_empty">Назва не може бути порожньою</string>
+    <string name="app_name">Monyrama</string>
+    <string name="back">Назад</string>
+    <string name="cancel">Скасувати</string>
+    <string name="cant_connect_ip_port">Не можу під\'єднатися до поточного сервера. Перевірте і виправте IP адресу та/або порт і натисніть OK</string>
+    <string name="cant_transfer_to_same_account">Не можна зробити переказ на той самий рахунок</string>
+    <string name="category">Категорія</string>
+    <string name="close">Закрити</string>
+    <string name="comment">Коментар</string>
+    <string name="currencies">Валюти</string>
+    <string name="currency">Валюта</string>
+    <string name="data_exchange">Обмін данними</string>
+    <string name="data_exchange_success">Обміна даними завершився вдало</string>
+    <string name="date">Дата</string>
+    <string name="dont_show_welcome">Не показувати цей екран при запуску</string>
+    <string name="editExpense">Редагувати витрату</string>
+    <string name="editIncome">Редагувати дохід</string>
+    <string name="editServer">Редагувати сервер</string>
+    <string name="empty_sum">Сума не може бути порожньою</string>
+    <string name="envelope">Конверт</string>
+    <string name="envelope_info">Деталі конверта</string>
+    <string name="envelope_name">Ім\'я конверта</string>
+    <string name="envelopes">Конверти</string>
+    <string name="expense_plan">План витрат</string>
+    <string name="expense_plan_info">Деталі плану витрат</string>
+    <string name="expense_removed">Витрата вдало видалена</string>
+    <string name="expense_saved">Витрата вдало збережена</string>
+    <string name="expenses">Витрати</string>
+    <string name="expenses_plans">Плани витрат</string>
+    <string name="failed_to_connect_to_server">Не вдалося з\'єднатися з сервером \"%1$s\", використовуючи IP %2$s та порт %3$s</string>
+    <string name="fetching_data"><![CDATA[Обмінююсь даними. Будь-ласка, зачекайте...]]></string>
+    <string name="fromAccount">З рахунку</string>
+    <string name="got_it_dont_show">Зрозуміло. Більше не показувати</string>
+    <string name="hide_expense_ids">Ховати ID витрат</string>
+    <string name="income_add">Додати</string>
+    <string name="income_removed">Дохід вдало збережений</string>
+    <string name="income_saved">Дохід вдало збережений</string>
+    <string name="income_source">Джерело доходів</string>
+    <string name="income_source_info">Деталі джерела доходів</string>
+    <string name="incomes">Доходи</string>
+    <string name="invalid_ip">Неправильна IP адреса</string>
+    <string name="invalid_sum">Неправильна сума</string>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/res/values-uk/tips_html.xml -->
+    <eat-comment/>
+    <string name="main_screen_tip">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">    			
+	    			<ul>    			
+	    			<li>Натискайте кнопку <img alt="" border="0" src="data:image/png;base64,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" />, щоб обмінюватися даними з настільною <font color="#0099FF"><b>Monyrama</b></font>.</li><br/>
+	    			<li>Щоб додати нову витрату, натисніть на конверт, до якого ви хочете додати витрату.</li><br/>
+	    			<li>Натискуйте кнопку <img alt="" border="0" src="data:image/png;base64,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" />, щоб щоб переглянути деталі вибраного плану витрат, статті або джерела доходу.</li><br/>
+	    			</ul>	    			
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="nameOrIP">IP адреса</string>
+    <string name="newExpense">Нова витрата</string>
+    <string name="newServer">Новий сервер</string>
+    <string name="new_income">Новий доход</string>
+    <string name="new_transfer">Новий переказ</string>
+    <string name="next_key_label">Далі</string>
+    <string name="no">Ні</string>
+    <string name="no_expenses">З моменту останнього обміну даними з настільною Monyrama не було додано нових витрат. Щоб додати нову витрату перейдіть на вкладинку Конверти та натисніть на конверт, до якого Ви хочете додати витрату.</string>
+    <string name="no_incomes">З моменту останнього обміну даними з настільною Monyrama не було додано нових доходів.</string>
+    <string name="no_transfers">З моменту останнього обміну даними з настільною Monyrama не було додано нових переказів.</string>
+    <string name="number_separator">,</string>
+    <string name="number_separator_key_code">55</string>
+    <string name="ok">OK</string>
+    <string name="please_press">Будь-ласка, натисніть</string>
+    <string name="port">Порт</string>
+    <string name="port_empty">Порт не може бути порожнім</string>
+    <string name="port_number">Порт має бути числом від 1024 до 99999</string>
+    <string name="question_remove_expense">Ви дійсно хочете видалити витрату на суму</string>
+    <string name="question_remove_income">Ви дійсно хочете видалити дохід на суму</string>
+    <string name="question_remove_server">Ви дійсно хочете видалити сервер</string>
+    <string name="question_remove_transfer">Ви дійсно хочете видалити переказ</string>
+    <string name="remainder">Залишок</string>
+    <string name="save">Зберегти</string>
+    <string name="server">Сервер</string>
+    <string name="server_removed">Сервер вдало видалений</string>
+    <string name="server_saved">Сервер вдало збережений</string>
+    <string name="servername_or_ip_empty">IP адреса не може бути порожньою</string>
+    <string name="servers">Сервери</string>
+    <string name="show_expense_ids">Показувати ID витрат</string>
+    <string name="spent">Витрачено</string>
+    <string name="start">Почати >></string>
+    <string name="sum">Сума</string>
+    <string name="think_please">Подумайте, будь-ласка</string>
+    <string name="tips">Підказки</string>
+    <string name="to_account">На рахунок</string>
+    <string name="to_get_updated_info">щоб отримати дані з настільної Monyrama</string>
+    <string name="today">сьогодні</string>
+    <string name="transfer_removed">Переказ вдало видалений</string>
+    <string name="transfer_saved">Переказ вдало збережений</string>
+    <string name="transfers">Перекази</string>
+    <string name="unexpected_error">Несподівана помилка</string>
+    <string name="unexpected_response_from_server">Несподівана відповідь від сервера</string>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/res/values-uk/welcome_html.xml -->
+    <eat-comment/>
+    <string name="welcomehtml">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">
+    				<center><h3><font color="#FF6633">Ласкаво просимо!</font></h3></center>
+	    			<font color="#00CC00"><b>Monyrama</b></font> на мобільному пристрої - помічник для настільної <font color="#0099FF"><b>Monyrama</b></font>.<br/><br/>
+	    			<font color="#00CC00"><b>Monyrama</b></font> дозволяє Вам мати Ваші плани витрат і джерела доходів під рукою на мобільному пристрої та реєструвати витрати і доходи, де б Ви не були.<br/><br/>
+	    			Для обміну даними з настільною <font color="#0099FF"><b>Monyrama</b></font> Вам знадобиться лише Ваша домашня WiFi мережа.<br/><br/>
+	    			Якщо Ви не є користувачем настільної <font color="#0099FF"><b>Monyrama</b></font>, будь-ласка, спочатку завітайте на наш сайт<br/><br/><center><b><a href="http://www.monyrama.com/uk/">http://www.monyrama.com</a></b></center>
+	    			<br/>   			
+	    			Отже, натисніть кнопку <font color="green"><b>Почати</b></font> і полегшіть Ваше життя разом з <font color="#00CC00"><b>Monyrama</b></font>.
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+    <!-- From: file:/Users/petroverheles/myfolder/projects/mobile_budget_vp/trunk/app/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Так</string>
+    <string name="yesterday">вчора</string>
+</resources>

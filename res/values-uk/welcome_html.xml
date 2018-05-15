@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="welcomehtml">    
+    <![CDATA[
+    	<html>
+    		<body bgcolor="black">
+    			<font color="white" size="3">
+    				<center><h3><font color="#FF6633">Ласкаво просимо!</font></h3></center>
+	    			<font color="#00CC00"><b>Мобільний бюджет VP</b></font> - це допоміжний додаток для настільного додатку <font color="#0099FF"><b>Персональний бюджет VP</b></font>.<br/><br/>
+	    			<font color="#00CC00"><b>Мобільний бюджет VP</b></font> дозволяє Вам мати Ваші плани витрат під рукою на Вашому мобільному пристрої та реєструвати Ваші витрати де б Ви не були.<br/><br/>
+	    			Для обміну даними з Вашим <font color="#0099FF"><b>Персональний бюджет VP</b></font> Вам знадобиться лише Ваша домашня WiFi мережа.<br/><br/>
+	    			Якщо Ви не є користувачем додатку <font color="#0099FF"><b>Персональний бюджет VP</b></font>, будь-ласка, спочатку завітайте на наш сайт<br/><br/><center><b><a href="http://www.pbudgetvp.com/uk/">http://www.pbudgetvp.com</a></b></center>
+	    			<br/>   			
+	    			Отже, натисніть кнопку <font color="green"><b>Почати</b></font> і полегшіть Ваше життя разом з <font color="#00CC00"><b>Мобільний бюджет VP</b></font>.
+	    		</font> 
+    		</body>
+    	</html>
+    ]]>
+</string>
+</resources>

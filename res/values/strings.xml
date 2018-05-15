@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Mobile Budget VP</string>
+
+    <!-- New / Edit server hints -->
+    <string name="alias">Alias</string>
+    <string name="nameOrIP">IP Address</string>
+    <string name="comment">Comment</string>
+    <string name="port">Port</string>
+
+    <!-- New / Edit server screen headers -->
+    <string name="newServer">New Server</string>
+    <string name="editServer">Edit Server</string>
+    
+    <!-- New / Edit server validator messages -->
+    <string name="alias_empty">Alias cannot be empty</string>
+    <string name="servername_or_ip_empty">IP Address cannot be empty</string>
+    <string name="invalid_ip">Invalid IP Address</string>
+    <string name="port_empty">Port cannot be empty</string>
+    <string name="port_number">Port must be a number between 1024 and 99999</string>    
+    
+    <!-- Button labels -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+	<string name="add_server">Add Server</string>
+
+    <!-- Dialog labels and messages -->
+    <string name="servers">Servers</string>
+    <string name="think_please">Think, please</string>
+    <string name="question_remove_server">Do you really want to remove the server</string>
+    <string name="question_remove_expense">Do you really want to remove the expense with sum</string>    
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="fetching_data"><![CDATA[Exchanging data. Please, wait...]]></string>
+    <string name="failed_to_connect_to_server">Failed to connect to the server \"%1$s\" using IP %2$s and port %3$s</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="unexpected_response_from_server">Unexpected response from server</string>    
+    <string name="data_exchange_success">Data Exchange successful</string>    
+    
+    <!-- Labels -->
+    <string name="server">Server</string>
+    <string name="expense_plan">Expenses Plan</string>
+    <string name="expenses_plans">Expenses Plans</string>  
+    <string name="incomes">Incomes</string>   
+    <string name="currencies">Currencies</string>  
+    <string name="data_exchange">Data Exchange</string>    
+    
+      
+    <!-- New / Edit expense screen headers -->
+    <string name="newExpense">New Expense</string>
+    <string name="editExpense">Edit Expense</string>
+    
+    <!-- New / Edit expense hints -->
+    <string name="sum">Sum</string>    
+    <string name="envelope">Envelope</string>    
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    
+    <string name="empty_sum">Sum cannot be empty</string>
+    <string name="invalid_sum">Invalid Sum</string>
+    
+    <!-- Tab labels -->
+    <string name="envelopes">Envelopes</string> 
+    <string name="expenses">Expenses</string>
+    
+    <!-- date labels -->
+    <string name="today">today</string>
+    <string name="yesterday">yesterday</string>
+    
+    <!-- Static Expenses Plan and Item info screen labels -->
+    <string name="envelope_info">Envelope Details</string>
+    <string name="envelope_name">Envelope Name</string>
+    <string name="spent">Spent</string>
+    <string name="remainder">Remainder</string>
+    <string name="currency">Currency</string>
+    <string name="expense_plan_info">Expenses Plan Details</string>
+    
+    <!-- Menu item Show / Hide Expense IDS -->
+    <string name="show_expense_ids">Show Expense ID</string>
+    <string name="hide_expense_ids">Hide Expense ID</string>
+    
+    <!--  -->
+    <string name="expense_saved">The expense successfully saved</string>
+    <string name="server_saved">The server successfully saved</string>
+	<string name="expense_removed">The expense successfully removed</string>
+    <string name="server_removed">The server successfully removed</string>
+    
+    <string name="dont_show_welcome">Don\'t show this screen on startup</string>    
+    <string name="start">Start >></string>    
+    <string name="please_press">Please, tap</string>    
+    <string name="to_get_updated_info">to get open expenses plans from the server</string>    
+    <string name="no_expenses">Since the latest data exchange with the server no new expenses have been added. To add an expense go to Envelopes tab and press on the envelope you want to make an expense from.</string>   
+    
+    <string name="number_separator">.</string>
+    <string name="number_separator_key_code">56</string>
+    <string name="next_key_label">Next</string>
+    
+    <!-- Tip dialog -->
+    <string name="tips">Tips</string>
+    <string name="got_it_dont_show">Got it. Don\'t show anymore</string>
+    <string name="close">Close</string>
+    <string name="accounts">Accounts</string>
+    <string name="transfers">Transfers</string>
+    <string name="add">Add</string>
+</resources>

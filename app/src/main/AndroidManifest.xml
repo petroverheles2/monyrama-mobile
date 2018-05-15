@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.monyrama"
+    android:versionCode="1"
+    android:versionName="1" >
+
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="17"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    
+    <application
+        android:icon="@drawable/main"
+        android:label="@string/app_name">
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.StartActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat">
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>        
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.WelcomeActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat" />
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.ExpensesPlansActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat" />
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.AddEditServerActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.AddEditExpenseActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.ViewEnvelopeActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.ViewExpensePlanActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.ServersActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.AccountsActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.CurrenciesActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.ViewAccountActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.IncomesActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.AddEditIncomeActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.ViewIncomeSourceActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+        <activity android:label="@string/app_name" android:name="com.monyrama.activity.AddTransferActivity" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat"/>
+
+        <uses-library android:name="android.test.runner"/>
+        
+    </application>     
+
+            <instrumentation android:name="android.test.InstrumentationTestRunner"
+    android:targetPackage="com.monyrama"
+    android:label="UnitTests" />
+</manifest>
